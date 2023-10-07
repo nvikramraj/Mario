@@ -1,6 +1,6 @@
 # Mario
 
-Mario.ipynb has the code to train the model
+Mario.ipynb has the code to train the model<br>
 Ai Test.ipynb is used to test the model
 
 ## Packages Needed
